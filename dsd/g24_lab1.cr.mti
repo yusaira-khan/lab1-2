@@ -1,0 +1,35 @@
+C:/altera/13.0sp1/g24_lab1.vhd {1 {vcom -work work -2002 -explicit C:/altera/13.0sp1/g24_lab1.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity g24_lab1
+-- Compiling architecture bdf_type of g24_lab1
+
+} {} {}} C:/altera/13.0sp1/g24_num1s.vhd {1 {vcom -work work -2002 -explicit C:/altera/13.0sp1/g24_num1s.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity g24_num1s
+-- Compiling architecture bdf_type of g24_num1s
+
+} {} {}} C:/altera/13.0sp1/simulation/modelsim/g24_num1s.vht {1 {vcom -work work -2002 -explicit C:/altera/13.0sp1/simulation/modelsim/g24_num1s.vht
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity g24_num1s_vhd_tst
+-- Compiling architecture g24_num1s_arch of g24_num1s_vhd_tst
+
+} {} {}} C:/altera/13.0sp1/g24_comp6.vhd {1 {vcom -work work -2002 -explicit C:/altera/13.0sp1/g24_comp6.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity g24_comp6
+-- Compiling architecture bdf_type of g24_comp6
+
+} {} {}}

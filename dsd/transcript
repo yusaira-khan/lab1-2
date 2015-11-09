@@ -1,0 +1,49 @@
+# Reading C:/altera/13.0sp1/modelsim_ase/tcl/vsim/pref.tcl 
+vsim lpm.lpm_decode
+# vsim lpm.lpm_decode 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading lpm.lpm_components
+# Loading lpm.lpm_decode(lpm_syn)
+# ** Fatal: (vsim-3350) Generic "lpm_width" has not been given a value.
+#    Time: 0 ps  Iteration: 0  Instance: /lpm_decode File: C:/altera/13.0sp1/modelsim_ase/win32aloem/../altera/vhdl/src/220model/220model.vhd Line: 1203
+# FATAL ERROR while loading design
+# Error loading design
+# Loading project tears
+# Compile of bleh.vhd failed with 1 errors.
+# Compile of g24_comp6.vhd was successful.
+# Compile of g24_num_matches.vhd was successful.
+# Compile of g24_num1s.vhd was successful.
+# Compile of g24color.vhd failed with 11 errors.
+# Compile of g24_num_matches.vht failed with 2 errors.
+# Compile of g24_num1s.vht was successful.
+# 7 compiles, 3 failed with 14 errors. 
+# Compile of bleh.vhd failed with 1 errors.
+# Compile of g24_comp6.vhd was successful.
+# Compile of g24_num_matches.vhd was successful.
+# Compile of g24_num1s.vhd was successful.
+# Compile of g24color.vhd failed with 11 errors.
+# Compile of g24_num_matches.vht failed with 2 errors.
+# Compile of g24_num1s.vht was successful.
+# 7 compiles, 3 failed with 14 errors. 
+# Compile of bleh.vhd failed with 1 errors.
+# Compile of g24_comp6.vhd was successful.
+# Compile of g24_num_matches.vhd was successful.
+# Compile of g24_num1s.vhd was successful.
+# Compile of g24color.vhd failed with 11 errors.
+# Compile of g24_num_matches.vht was successful.
+# Compile of g24_num1s.vht was successful.
+# 7 compiles, 2 failed with 12 errors. 
+# Compile of g24color.vhd failed with 11 errors.
+# Compile of g24color.vhd failed with 11 errors.
+# Compile of g24color.vhd failed with 11 errors.
+# Compile of g24color.vhd failed with 11 errors.
+# Compile of g24color.vhd was successful.
+# Compile of bleh.vhd failed with 1 errors.
+# Compile of bleh.vhd failed with 11 errors.
+# Compile of g24color.vhd was successful.
+# Compile of bleh.vhd failed with 11 errors.
+# Compile of bleh.vhd failed with 11 errors.
